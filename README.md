@@ -1,6 +1,6 @@
 # @defx/element-interface
 
-A function that, given an HTML element name, returns the name of its interface
+A function that, given an HTML element name, returns the name of its [interface](https://html.spec.whatwg.org/multipage/indices.html#element-interfaces)
 
 ## install
 
